@@ -1,6 +1,6 @@
 # Aurelianos Bar
 
-Projeto destinado as atividades da OPE da Faculdade Impacta de Tecnologia
+Projeto destinado as atividades da OPE da Faculdade Impacta de Tecnologia - Analise e Desenvolvimento de Sistemas
 
 ## Integrantes
 
@@ -9,4 +9,7 @@ Projeto destinado as atividades da OPE da Faculdade Impacta de Tecnologia
 * `Pedro Pereira de Brito Neto - pedro.brito@aluno.faculdadeimpacta.com.br`
 * `Scarlet Fernanda Machado Barros da Silva - scarlet.silva@aluno.faculdadeimpacta.com.br`
 * `Victor Antônio Munaro Augusto - victor.augusto@aluno.faculdadeimpacta.com.br`
+
+
+ARTEFATOS CONFECCIONADOS DURANTE O CURSO;
 
